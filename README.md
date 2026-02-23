@@ -13,3 +13,6 @@ Today's topic is functions!
 - **task4:** Write `is_even(number)` that returns True or False
 
 - **task5:** Create `power(base, exponent=2)` using a default parameter
+
+**mini_project:**
+Build an interactive program that uses ALL 5 functions together.
